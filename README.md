@@ -11,7 +11,7 @@
  </tr>
   <tr>
     <td>
-       <img width="400px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Ericgacoki&theme=vision-friendly-dark"  />
+       <img width="400px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=del-ui&theme=vision-friendly-dark"  />
      </td>  
    </tr>
    <tr>
