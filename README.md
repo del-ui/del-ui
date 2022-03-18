@@ -1,4 +1,4 @@
-<!-- #### :zap: Hello, Eric gacoki here, I'm an Android developer, GDSC Lead [@GDSC Meru](https://twitter.com/gdsc_meru), scholar @[Andela](https://twitter.com/Andela) (GADS program), and the organizer at [Droiders Cage](https://github.com/droiders-cage).:zap: -->
+<!-- #### :zap: Hello, Victor Kamau here, I'm an Android developer, GDSC Lead [@GDSC Meru](https://twitter.com/gdsc_meru), scholar @[Andela](https://twitter.com/Andela) (GADS program), and the founder of [V-FAB Tech](https://github.com/droiders-cage).:zap: -->
 ![github](https://img.shields.io/github/followers/del-ui?style=plastic)
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) -->
 
