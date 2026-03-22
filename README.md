@@ -24,4 +24,4 @@
 
 
 
-<code>[![Google Dev Profile]([https://img.shields.io/badge/-Google_Developer_Profile-61fb70?style=for-the-badge&labelColor=black&logo=android&logoColor=61fb70)](https://gdsc.community.dev/u/mrspxk/#/abou](https://gdg.community.dev/u/m9fy34/#/about)t)</code> <code>[![LinkedIn](https://img.shields.io/badge/-My_Linkedin-61DBFB?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=61DBFB)](https://www.linkedin.com/in/wambui-victor-263a84201/)</code> 
+<code>[![Google Dev Profile]([https://img.shields.io/badge/-Google_Developer_Profile-61fb70?style=for-the-badge&labelColor=black&logo=android&logoColor=61fb70)](https://gdg.community.dev/u/m9fy34/#/about)t)</code> <code>[![LinkedIn](https://img.shields.io/badge/-My_Linkedin-61DBFB?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=61DBFB)](https://www.linkedin.com/in/wambui-victor-263a84201/)</code> 
